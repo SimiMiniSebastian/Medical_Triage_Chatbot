@@ -14,7 +14,7 @@ A simple Streamlit web app that predicts possible diseases based on user symptom
 
 ## 🚀 Live Demo
 
-[Click here to try it out on Streamlit Cloud](https://YOUR-STREAMLIT-APP-URL)
+https://medicaltriagechatbot-4kmuw43u3fropgvbxczwwg.streamlit.app/
 
 ## 🛠️ Technologies
 
